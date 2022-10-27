@@ -18,11 +18,11 @@ try:
 
         #upload source file to storage
 
-        filename = 'appealform.pdf'
+        filename = 'Sorgu.pdf'
 
-        remote_name = 'appealform.pdf'
+        remote_name = 'Sorgu.pdf'
 
-        output_name= 'appealform-out.docx'
+        output_name= 'Sorgu-out.docx'
 
         strformat='docx'
 
